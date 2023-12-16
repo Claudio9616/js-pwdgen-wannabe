@@ -22,3 +22,14 @@ Consigli
 - Commentate ogni micro step e subito dopo verificate col (console.log())
 - Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
 Buon lavoro e buon weekend! 
+
+
+
+
+1 Prendiamo l'elemnto dal DOM
+2 Creo una variabile per chiedere il nome
+3 Creo una variabile per chiedere il cognome
+4 Creo una variabile per chiedere il colore
+5 Creo una variabie con il numero fisso 23
+6 Creo il messaggio 
+7 Inserisco il risultato nella pagina 
