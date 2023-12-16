@@ -31,5 +31,6 @@ Buon lavoro e buon weekend!
 3 Creo una variabile per chiedere il cognome
 4 Creo una variabile per chiedere il colore
 5 Creo una variabie con il numero fisso 23
-6 Creo il messaggio 
-7 Inserisco il risultato nella pagina 
+6 Creo una variabile con il messaggio 
+7 Creo il testo finale
+8 Inserisco il risultato nella pagina 
